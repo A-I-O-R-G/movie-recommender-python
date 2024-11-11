@@ -1,0 +1,85 @@
+
+Aqui está o Roadmap do Projeto baseado nas informações fornecidas no cronograma, planilha e documento pré-projeto:
+
+```json
+{
+  "Roadmap": {
+    "nome_do_projeto": "Sistema de Recomendação de Filmes",
+    "data_criacao": "2024-11-10",
+    "objetivo": "Desenvolver um script que recomende filmes para usuários com base nas suas preferências individuais e histórico de visualizações.",
+    "cronograma": {
+      "fases": [
+        {
+          "nome": "Levantamento de Requisitos",
+          "data_inicio": "2024-11-11",
+          "data_fim": "2024-11-15",
+          "responsavel": "Equipe de Análise",
+          "status": "Pendente",
+          "descricao": "Coletar requisitos e entender as preferências dos usuários."
+        },
+        {
+          "nome": "Pesquisa e Análise de Algoritmos",
+          "data_inicio": "2024-11-16",
+          "data_fim": "2024-11-20",
+          "responsavel": "Equipe de Desenvolvimento",
+          "status": "Pendente",
+          "descricao": "Pesquisar e escolher os algoritmos de recomendação que serão implementados."
+        },
+        {
+          "nome": "Desenvolvimento do Algoritmo",
+          "data_inicio": "2024-11-21",
+          "data_fim": "2024-12-05",
+          "responsavel": "Equipe de Desenvolvimento",
+          "status": "Pendente",
+          "descricao": "Implementação dos algoritmos de recomendação escolhidos."
+        },
+        {
+          "nome": "Desenvolvimento da Interface",
+          "data_inicio": "2024-12-06",
+          "data_fim": "2024-12-15",
+          "responsavel": "Equipe de Design",
+          "status": "Pendente",
+          "descricao": "Criar a interface para entrada e visualização de recomendações."
+        },
+        {
+          "nome": "Testes e Validação",
+          "data_inicio": "2024-12-16",
+          "data_fim": "2024-12-25",
+          "responsavel": "Equipe de QA",
+          "status": "Pendente",
+          "descricao": "Testar o sistema e validar a precisão das recomendações."
+        },
+        {
+          "nome": "Documentação e Entrega Final",
+          "data_inicio": "2024-12-26",
+          "data_fim": "2024-12-30",
+          "responsavel": "Equipe de Documentação",
+          "status": "Pendente",
+          "descricao": "Produzir a documentação final e entregar o sistema ao cliente."
+        }
+      ]
+    },
+    "escopo": {
+      "inclusoes": [
+        "Implementação de algoritmos de recomendação.",
+        "Análise de dados de filmes e preferências dos usuários.",
+        "Interface para entrada e visualização de recomendações."
+      ],
+      "exclusoes": [
+        "Desenvolvimento de uma plataforma de streaming.",
+        "Suporte a múltiplos idiomas inicialmente."
+      ]
+    },
+    "riscos": [
+      "Possíveis desafios na coleta e organização de dados relevantes para a geração de recomendações precisas."
+    ],
+    "tecnologias": [
+      "Python",
+      "Bibliotecas de Machine Learning como Scikit-learn",
+      "Banco de dados SQL ou NoSQL para armazenamento das informações dos usuários e filmes."
+    ]
+  }
+}
+``` 
+
+Esse formato JSON resume o Roadmap do projeto, abrangendo todas as fases, objetivos, tecnologias e escopo.
