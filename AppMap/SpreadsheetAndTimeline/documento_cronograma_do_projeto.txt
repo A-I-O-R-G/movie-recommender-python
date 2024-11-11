@@ -1,0 +1,107 @@
+
+Aqui está o cronograma do projeto baseado no documento pre projeto apresentado:
+
+```json
+{
+  "cronograma": {
+    "fase_1": {
+      "nome": "Levantamento de Requisitos",
+      "data_inicio": "2024-11-11",
+      "data_fim": "2024-11-15",
+      "descricao": "Coletar requisitos e entender completamente as preferências dos usuários."
+    },
+    "fase_2": {
+      "nome": "Pesquisa e Análise de Algoritmos",
+      "data_inicio": "2024-11-16",
+      "data_fim": "2024-11-20",
+      "descricao": "Pesquisar e escolher os algoritmos de recomendação que serão implementados."
+    },
+    "fase_3": {
+      "nome": "Desenvolvimento do Algoritmo",
+      "data_inicio": "2024-11-21",
+      "data_fim": "2024-12-05",
+      "descricao": "Implementação dos algoritmos de recomendação escolhidos."
+    },
+    "fase_4": {
+      "nome": "Desenvolvimento da Interface",
+      "data_inicio": "2024-12-06",
+      "data_fim": "2024-12-15",
+      "descricao": "Criar a interface para entrada e visualização de recomendações."
+    },
+    "fase_5": {
+      "nome": "Testes e Validação",
+      "data_inicio": "2024-12-16",
+      "data_fim": "2024-12-25",
+      "descricao": "Testar o sistema e validar a precisão das recomendações."
+    },
+    "fase_6": {
+      "nome": "Documentação e Entrega Final",
+      "data_inicio": "2024-12-26",
+      "data_fim": "2024-12-30",
+      "descricao": "Produzir a documentação final e entregar o sistema ao cliente."
+    }
+  }
+}
+```
+
+Agora, aqui está a planilha do projeto com base nas informações fornecidas:
+
+```json
+{
+  "planilha": {
+    "Colunas": [
+      "Fase",
+      "Data de Início",
+      "Data de Fim",
+      "Responsável",
+      "Status"
+    ],
+    "Linhas": [
+      {
+        "Fase": "Levantamento de Requisitos",
+        "Data de Início": "2024-11-11",
+        "Data de Fim": "2024-11-15",
+        "Responsável": "Equipe de Análise",
+        "Status": "Pendente"
+      },
+      {
+        "Fase": "Pesquisa e Análise de Algoritmos",
+        "Data de Início": "2024-11-16",
+        "Data de Fim": "2024-11-20",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Status": "Pendente"
+      },
+      {
+        "Fase": "Desenvolvimento do Algoritmo",
+        "Data de Inicio": "2024-11-21",
+        "Data de Fim": "2024-12-05",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Status": "Pendente"
+      },
+      {
+        "Fase": "Desenvolvimento da Interface",
+        "Data de Início": "2024-12-06",
+        "Data de Fim": "2024-12-15",
+        "Responsável": "Equipe de Design",
+        "Status": "Pendente"
+      },
+      {
+        "Fase": "Testes e Validação",
+        "Data de Início": "2024-12-16",
+        "Data de Fim": "2024-12-25",
+        "Responsável": "Equipe de QA",
+        "Status": "Pendente"
+      },
+      {
+        "Fase": "Documentação e Entrega Final",
+        "Data de Início": "2024-12-26",
+        "Data de Fim": "2024-12-30",
+        "Responsável": "Equipe de Documentação",
+        "Status": "Pendente"
+      }
+    ]
+  }
+}
+```
+
+Esses formatos JSON representam o cronograma e a planilha do projeto de forma organizada e estruturada.
