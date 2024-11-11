@@ -1,0 +1,35 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "data_criacao": "2024-11-10 22:36:35",
+    "descricao": "O usuário solicitou um script para um Sistema de Recomendação de filmes que deve ser baseado nas preferências dos usuários. Isso implica na necessidade de um algoritmo que analise as escolhas anteriores de filmes por um usuário, suas classificações e possivelmente outros dados, como gênero, atores ou diretores favoritos. O script deve ser capaz de sugerir filmes que o usuário ainda não assistiu, mas que têm maior chance de serem do seu agrado, utilizando técnicas como filtragem colaborativa ou sistemas baseados em conteúdo.",
+    "objetivo": "Desenvolver um script que recomende filmes para usuários com base nas suas preferências individuais e histórico de visualizações.",
+    "escopo": {
+      "inclusoes": [
+        "Implementação de algoritmos de recomendação.",
+        "Análise de dados de filmes e preferências dos usuários.",
+        "Interface para entrada e visualização de recomendações."
+      ],
+      "exclusoes": [
+        "Desenvolvimento de uma plataforma de streaming.",
+        "Suporte a múltiplos idiomas inicialmente."
+      ]
+    },
+    "metodologia": "Utilização de técnicas de aprendizagem de máquina, principalmente filtragem colaborativa e sistemas baseados em conteúdo, para análise de preferências e recomendações de filmes.",
+    "tecnologias": [
+      "Python",
+      "Bibliotecas de Machine Learning como Scikit-learn",
+      "Banco de dados SQL ou NoSQL para armazenamento das informações dos usuários e filmes."
+    ],
+    "recursos_necessarios": [
+      "Desenvolvedores com experiência em machine learning.",
+      "Acesso a dados de filmes e preferências dos usuários.",
+      "Infraestrutura para testes do sistema."
+    ],
+    "risco": "Possíveis desafios na coleta e organização de dados relevantes para a geração de recomendações precisas.",
+    "cronograma_estimado": "A ser definido."
+  },
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto - Sistema de Recomendação de Filmes"
+}
+```
